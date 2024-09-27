@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "5acfcbff-a7a5-4fb9-bd1e-981c5d7725b6",
+		"name": "BCPOC",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "14888089"
+	},
+	"item": [
+		{
+			"name": "appalive",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5178",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5178"
+				}
+			},
+			"response": []
+		}
+	]
+}
