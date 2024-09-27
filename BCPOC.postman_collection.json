@@ -12,12 +12,15 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://localhost:5178",
-					"protocol": "https",
+					"raw": "http://cweinertest.com/api",
+					"protocol": "http",
 					"host": [
-						"localhost"
+						"cweinertest",
+						"com"
 					],
-					"port": "5178"
+					"path": [
+						"api"
+					]
 				}
 			},
 			"response": []
